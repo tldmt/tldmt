@@ -1,0 +1,87 @@
+<div id="body">
+
+<img
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:2de2e6,100:f6019d"
+  alt=""
+/>
+
+  <div id="greeting" align="center">
+    <h1>Hello! Pleased to meet you, my name is Toledo!</h1>
+    <p>
+      I'm a Data Engineer with over 5 years building and modernizing large-scale data platforms on AWS, Azure and Databricks.<br/>
+      I work end-to-end: distributed processing in Spark, Flink and Kafka, orchestration with Airflow, infrastructure as code in  Terraform, and the CI/CD that keeps it all shipping.<br/>
+      My Software Engineering background is what shapes how I build data systems — performance tuning at the framework level, testable pipelines, and migrations that hand back a codebase in clearly better shape than the one handed to me.
+    </p>
+  </div>
+
+  <!--  -->
+
+  <div id="stat-badges" align="center">
+    <img
+      height="195"
+      src="https://github-readme-stats.vercel.app/api?username=tldmt&show_icons=true&count_private=true&hide_border=true&title_color=f6019d&icon_color=9700cc&text_color=2de2e6&bg_color=0d1117"
+      alt="Toledo's github stats."
+    />
+    <img
+      height="195"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=tldmt&layout=compact&hide_border=true&title_color=f6019d&text_color=2de2e6&bg_color=0d1117&langs_count=16"
+      alt="Toledo's most used languages."
+    />
+  </div>
+
+  <!--  -->
+
+  <div id="contact" align="center">
+    <a href="https://www.linkedin.com/in/tldmt/">
+      <img
+        src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+        alt="LinkedIn"
+      />
+    </a>
+    <a href="https://dev.to/tldmt">
+      <img
+        src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"
+        alt="dev.to"
+      />
+    </a>
+  </div>
+
+  <!--  -->
+
+  <div id="about-me">
+    <h2>Little things about me: <span onload=""></span></h2>
+    <ul>
+      <li>
+        👨‍🎓 I’m always working on personal projects with my college friends and I
+        hope we all get success on them!
+      </li>
+      <li>
+        🎧 I'm very into Synth and Retrowave.
+      </li>
+      <li>
+        🐲 I like animes and mangás.
+      </li>
+    </ul>
+  </div>
+
+  <!--  -->
+
+  <div id="tech-stack">
+    <h2>Tech Stack</h2>
+    <p> I Decided to remove my tech stack from here. It was getting too big, too many icons to maintain. I prefer making something different soon.</p>
+  </div>
+
+  <!--  -->
+
+<img
+  width="100%"
+  src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:2de2e6,100:f6019d"
+  alt=""
+/>
+
+</div>
+
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=tldmt" alt="Profile views"/>
+</div>

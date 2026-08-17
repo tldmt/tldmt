@@ -13,19 +13,12 @@
         alt=""
     />
         <div id="social" align="center">
-            <a href="https://www.linkedin.com/in/tldmt/">
-                <img
-                src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-                alt="LinkedIn"
-                />
-            </a>
-            <span></span>
-            <a href="https://dev.to/tldmt">
-                <img
-                src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"
-                alt="dev.to"
-                />
-            </a>
+            <a href="https://www.linkedin.com/in/tldmt/"><img
+            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+            alt="LinkedIn"/></a>
+            <a href="https://dev.to/tldmt"><img
+            src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"
+            alt="dev.to"/></a>
         </div>
     <img
         id="content-svg-2"
